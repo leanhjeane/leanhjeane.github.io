@@ -78,7 +78,7 @@ main{
     background-position: center;
 }
 main .wrapper{
-    padding: 5rem 0rem 14rem 0rem;
+    padding: 5rem 0rem 8rem 0rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -87,7 +87,7 @@ main .wrapper{
 }
 main .main-container{
     width: min(600px, 80%, 90vh, 150ch);
-    height: 350px;
+    height: 500px;
     background-color: rgba(0, 0, 0, 0.445);
     padding: 3rem;
     border-bottom: 1px solid #fefefe;
