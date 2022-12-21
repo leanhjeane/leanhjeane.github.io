@@ -114,7 +114,7 @@ button:hover{
     transform: translate(0,-10%);
     transition: ease-in;
 }
-main .title{
+main .title h1{
     color: #fefefe;
 }
 
